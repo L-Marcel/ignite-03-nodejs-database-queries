@@ -1,0 +1,7 @@
+{
+  "translatedDescription": "Uma aplicação para executar consultas no banco de dados utilizando Typeorm.",
+  "technologies": [
+    "Node.js",
+    "Express"
+  ]
+}
